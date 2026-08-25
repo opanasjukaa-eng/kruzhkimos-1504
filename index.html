@@ -74,7 +74,7 @@ async function loadClubs(){
   const countEl = $('#count');
   if(countEl) countEl.textContent='Загружаем каталог…';
   try{
-    const response = await fetch('./clubs-data.json?v=' + Date.now(), {cache:'no-store'});
+    const response = await fetch('./clubs-data.json?v=367-20260825', {cache:'no-store'});
     if(!response.ok) throw new Error('HTTP ' + response.status);
     const loaded = await response.json();
     if(!Array.isArray(loaded)) throw new Error('Некорректный формат clubs-data.json');
