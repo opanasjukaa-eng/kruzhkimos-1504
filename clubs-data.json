@@ -106,7 +106,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "1 год",
     "hours": "4",
-    "audience": "15-17",
+    "audience": "15–17 лет",
     "grades": [],
     "audienceGroups": [
       "8–11 классы"
@@ -137,7 +137,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "1 год",
     "hours": "4",
-    "audience": "13 – 17 лет",
+    "audience": "13–17 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -150,7 +150,7 @@
     ],
     "address": "ШК-1, ул. Сталеваров, 10а",
     "campus": "ШК-1",
-    "dates": "05.09.2025 - 29.05.2027",
+    "dates": "05.09.2026 - 29.05.2027",
     "priceMonth": "",
     "priceLesson": "",
     "price": "Бесплатно",
@@ -169,7 +169,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "1 год",
     "hours": "2",
-    "audience": "13-18 лет",
+    "audience": "13–18 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -307,7 +307,7 @@
     "direction": "Художественная",
     "duration": "1 год",
     "hours": "10",
-    "audience": "7-18",
+    "audience": "7–18 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -337,7 +337,7 @@
     "direction": "Художественная",
     "duration": "1 год",
     "hours": "4",
-    "audience": "13-18",
+    "audience": "13–18 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -366,7 +366,7 @@
     "direction": "Художественная",
     "duration": "1 год",
     "hours": "2",
-    "audience": "7-9",
+    "audience": "7–9 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -394,7 +394,7 @@
     "direction": "Художественная",
     "duration": "1 год",
     "hours": "2",
-    "audience": "10-12",
+    "audience": "10–12 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -423,7 +423,7 @@
     "direction": "Художественная",
     "duration": "1 год",
     "hours": "4",
-    "audience": "12-18",
+    "audience": "12–18 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -526,7 +526,7 @@
     "direction": "Техническая",
     "duration": "2 года",
     "hours": "6",
-    "audience": "12-18",
+    "audience": "12–18 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -558,7 +558,7 @@
     "direction": "Туристско-краеведческая",
     "duration": "1 год",
     "hours": "2",
-    "audience": "12-18",
+    "audience": "12–18 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы",
@@ -589,7 +589,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «А» класс",
     "grades": [
       1
     ],
@@ -621,7 +621,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Б» класс",
     "grades": [
       1
     ],
@@ -653,7 +653,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «В» класс",
     "grades": [
       1
     ],
@@ -685,7 +685,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Г» класс",
     "grades": [
       1
     ],
@@ -717,7 +717,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Д» класс",
     "grades": [
       1
     ],
@@ -749,7 +749,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Е» класс",
     "grades": [
       1
     ],
@@ -781,7 +781,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «А» класс",
     "grades": [
       4
     ],
@@ -813,7 +813,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Б» класс",
     "grades": [
       4
     ],
@@ -845,7 +845,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «В» класс",
     "grades": [
       4
     ],
@@ -877,7 +877,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Г» класс",
     "grades": [
       4
     ],
@@ -909,7 +909,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Д» класс",
     "grades": [
       4
     ],
@@ -941,7 +941,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «М» класс",
     "grades": [
       4
     ],
@@ -973,7 +973,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Е» класс",
     "grades": [
       4
     ],
@@ -1005,7 +1005,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Ж» класс",
     "grades": [
       4
     ],
@@ -1033,11 +1033,11 @@
     "sheet": "Проектная деятельность",
     "row": 16,
     "name": "Проектная деятельность 4 \"З\" класс ШК2",
-    "teacher": "Ветрова Д.О.",
+    "teacher": "Кукоева Д.О.",
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «З» класс",
     "grades": [
       4
     ],
@@ -1055,7 +1055,7 @@
     "priceLesson": "",
     "price": "Бесплатно",
     "description": "Выполнение индивидуальных проектов с использованием ресурсов г. Москвы.",
-    "mosUrl": "",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516535",
     "workUrl": "",
     "funding": "Бесплатно"
   },
@@ -1069,7 +1069,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «А» класс",
     "grades": [
       2
     ],
@@ -1101,7 +1101,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Б» класс",
     "grades": [
       2
     ],
@@ -1133,7 +1133,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «В» класс",
     "grades": [
       2
     ],
@@ -1165,7 +1165,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Г» класс",
     "grades": [
       2
     ],
@@ -1197,7 +1197,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «А» класс",
     "grades": [
       3
     ],
@@ -1229,7 +1229,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Б» класс",
     "grades": [
       3
     ],
@@ -1261,7 +1261,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «В» класс",
     "grades": [
       3
     ],
@@ -1293,7 +1293,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Г» класс",
     "grades": [
       3
     ],
@@ -1325,7 +1325,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Д» класс",
     "grades": [
       2
     ],
@@ -1357,7 +1357,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Е» класс",
     "grades": [
       2
     ],
@@ -1389,7 +1389,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «З» класс",
     "grades": [
       2
     ],
@@ -1421,7 +1421,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Ж» класс",
     "grades": [
       2
     ],
@@ -1453,7 +1453,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Д» класс",
     "grades": [
       3
     ],
@@ -1485,7 +1485,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Е» класс",
     "grades": [
       3
     ],
@@ -1517,7 +1517,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «М» класс",
     "grades": [
       3
     ],
@@ -1549,7 +1549,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «О» класс",
     "grades": [
       3
     ],
@@ -1581,7 +1581,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «А» класс",
     "grades": [
       5
     ],
@@ -1613,7 +1613,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Б» класс",
     "grades": [
       5
     ],
@@ -1645,7 +1645,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «В» класс",
     "grades": [
       5
     ],
@@ -1677,7 +1677,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5",
+    "audience": "5 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -1707,7 +1707,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Д» класс",
     "grades": [
       5
     ],
@@ -1739,7 +1739,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Е» класс",
     "grades": [
       5
     ],
@@ -1771,7 +1771,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Т» класс",
     "grades": [
       5
     ],
@@ -1803,7 +1803,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «И» класс",
     "grades": [
       5
     ],
@@ -1835,7 +1835,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «А» класс",
     "grades": [
       6
     ],
@@ -1867,7 +1867,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Б» класс",
     "grades": [
       6
     ],
@@ -1899,7 +1899,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «В» класс",
     "grades": [
       6
     ],
@@ -1931,7 +1931,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Г» класс",
     "grades": [
       6
     ],
@@ -1963,7 +1963,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «У» класс",
     "grades": [
       6
     ],
@@ -1995,7 +1995,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Д» класс",
     "grades": [
       6
     ],
@@ -2027,7 +2027,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Е» класс",
     "grades": [
       6
     ],
@@ -2059,7 +2059,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Ж» класс",
     "grades": [
       6
     ],
@@ -2091,7 +2091,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «З» класс",
     "grades": [
       6
     ],
@@ -2123,7 +2123,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Э» класс",
     "grades": [
       6
     ],
@@ -2155,7 +2155,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Е» класс",
     "grades": [
       7
     ],
@@ -2187,7 +2187,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Г» класс",
     "grades": [
       7
     ],
@@ -2219,7 +2219,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «И» класс",
     "grades": [
       7
     ],
@@ -2251,7 +2251,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «О» класс",
     "grades": [
       7
     ],
@@ -2283,7 +2283,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Т» класс",
     "grades": [
       7
     ],
@@ -2315,7 +2315,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Э» класс",
     "grades": [
       7
     ],
@@ -2347,7 +2347,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «М» класс",
     "grades": [
       7
     ],
@@ -2379,7 +2379,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «К» класс",
     "grades": [
       7
     ],
@@ -2411,7 +2411,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Е» класс",
     "grades": [
       8
     ],
@@ -2443,7 +2443,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Т» класс",
     "grades": [
       8
     ],
@@ -2475,7 +2475,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Э» класс",
     "grades": [
       8
     ],
@@ -2507,7 +2507,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Г» класс",
     "grades": [
       8
     ],
@@ -2539,7 +2539,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «И» класс",
     "grades": [
       8
     ],
@@ -2571,7 +2571,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «О» класс",
     "grades": [
       8
     ],
@@ -2603,7 +2603,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «К» класс",
     "grades": [
       8
     ],
@@ -2635,7 +2635,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «М» класс",
     "grades": [
       8
     ],
@@ -2667,7 +2667,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Г» класс",
     "grades": [
       9
     ],
@@ -2699,7 +2699,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Т» класс",
     "grades": [
       9
     ],
@@ -2731,7 +2731,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «О» класс",
     "grades": [
       9
     ],
@@ -2763,7 +2763,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Е» класс",
     "grades": [
       9
     ],
@@ -2795,7 +2795,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «И» класс",
     "grades": [
       9
     ],
@@ -2827,7 +2827,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «М» класс",
     "grades": [
       9
     ],
@@ -2859,7 +2859,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Л» класс",
     "grades": [
       9
     ],
@@ -2891,7 +2891,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «К» класс",
     "grades": [
       9
     ],
@@ -2923,7 +2923,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Е» класс",
     "grades": [
       10
     ],
@@ -2955,7 +2955,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Г» класс",
     "grades": [
       10
     ],
@@ -2987,7 +2987,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «И» класс",
     "grades": [
       10
     ],
@@ -3019,7 +3019,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «К» класс",
     "grades": [
       10
     ],
@@ -3051,7 +3051,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Ф» класс",
     "grades": [
       10
     ],
@@ -3083,7 +3083,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Ф» класс",
     "grades": [
       11
     ],
@@ -3115,7 +3115,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «И» класс",
     "grades": [
       11
     ],
@@ -3147,7 +3147,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Е» класс",
     "grades": [
       11
     ],
@@ -3179,7 +3179,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Г» класс",
     "grades": [
       11
     ],
@@ -3211,7 +3211,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «К» класс",
     "grades": [
       11
     ],
@@ -3558,7 +3558,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5А",
+    "audience": "5 «А» класс",
     "grades": [
       5
     ],
@@ -3590,7 +3590,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5Б",
+    "audience": "5 «Б» класс",
     "grades": [
       5
     ],
@@ -3622,7 +3622,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5В",
+    "audience": "5 «В» класс",
     "grades": [
       5
     ],
@@ -3654,7 +3654,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5Г",
+    "audience": "5 «Г» класс",
     "grades": [
       5
     ],
@@ -3686,7 +3686,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5Д",
+    "audience": "5 «Д» класс",
     "grades": [
       5
     ],
@@ -3718,7 +3718,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5Е",
+    "audience": "5 «Е» класс",
     "grades": [
       5
     ],
@@ -3750,7 +3750,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5Ж",
+    "audience": "5 «Ж» класс",
     "grades": [
       5
     ],
@@ -3782,7 +3782,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "5З",
+    "audience": "5 «З» класс",
     "grades": [
       5
     ],
@@ -3814,7 +3814,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "8К",
+    "audience": "8 «К» класс",
     "grades": [
       8
     ],
@@ -3846,7 +3846,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "8М",
+    "audience": "8 «М» класс",
     "grades": [
       8
     ],
@@ -3878,7 +3878,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "8Е",
+    "audience": "8 «Е» класс",
     "grades": [
       8
     ],
@@ -3901,6 +3901,134 @@
     "funding": "Платно"
   },
   {
+    "id": "p-Информатика-10",
+    "source": "Внебюджет",
+    "sheet": "Информатика",
+    "row": 10,
+    "name": "3D-моделирование 1 группа 8 \"И\" класс ШК1",
+    "teacher": "Малышева Е.В.",
+    "direction": "Техническая",
+    "duration": "9",
+    "hours": "1",
+    "audience": "8 «И» класс",
+    "grades": [
+      8
+    ],
+    "audienceGroups": [
+      "8–11 классы"
+    ],
+    "schedule": "среда 15.30-16.15",
+    "days": [
+      "Ср"
+    ],
+    "address": "Сталеваров 10А",
+    "campus": "ШК-1",
+    "dates": "01.09.2026-28.05.2027",
+    "priceMonth": "1 000 ₽",
+    "priceLesson": "250 ₽",
+    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
+    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444590",
+    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Информатика-11",
+    "source": "Внебюджет",
+    "sheet": "Информатика",
+    "row": 11,
+    "name": "3D-моделирование 2 группа 8 \"И\" класс ШК1",
+    "teacher": "Малышева Е.В.",
+    "direction": "Техническая",
+    "duration": "9",
+    "hours": "1",
+    "audience": "8 «И» класс",
+    "grades": [
+      8
+    ],
+    "audienceGroups": [
+      "8–11 классы"
+    ],
+    "schedule": "четверг 15.30-16.15",
+    "days": [
+      "Чт"
+    ],
+    "address": "Сталеваров 10А",
+    "campus": "ШК-1",
+    "dates": "01.09.2026-28.05.2027",
+    "priceMonth": "1 000 ₽",
+    "priceLesson": "250 ₽",
+    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
+    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444603",
+    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Информатика-9",
+    "source": "Внебюджет",
+    "sheet": "Информатика",
+    "row": 9,
+    "name": "3D-моделирование 1 группа 8 \"Т\" класс ШК1",
+    "teacher": "Малышева Е.В.",
+    "direction": "Техническая",
+    "duration": "9",
+    "hours": "1",
+    "audience": "8 «Т» класс",
+    "grades": [
+      8
+    ],
+    "audienceGroups": [
+      "8–11 классы"
+    ],
+    "schedule": "среда 16.25 - 17.10",
+    "days": [
+      "Ср"
+    ],
+    "address": "Сталеваров 10А",
+    "campus": "ШК-1",
+    "dates": "01.09.2026-28.05.2027",
+    "priceMonth": "1 000 ₽",
+    "priceLesson": "250 ₽",
+    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
+    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444612",
+    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Информатика-7",
+    "source": "Внебюджет",
+    "sheet": "Информатика",
+    "row": 7,
+    "name": "3D-моделирование 2 группа 8 \"Т\" класс ШК1",
+    "teacher": "Наместников М.В.",
+    "direction": "Техническая",
+    "duration": "9",
+    "hours": "1",
+    "audience": "8 «Т» класс",
+    "grades": [
+      8
+    ],
+    "audienceGroups": [
+      "8–11 классы"
+    ],
+    "schedule": "среда 16.25 - 17.10",
+    "days": [
+      "Ср"
+    ],
+    "address": "Сталеваров 10А",
+    "campus": "ШК-1",
+    "dates": "01.09.2026-28.05.2027",
+    "priceMonth": "1 000 ₽",
+    "priceLesson": "250 ₽",
+    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
+    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444617",
+    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
+    "funding": "Платно"
+  },
+  {
     "id": "p-Программы 8 класс-9",
     "source": "Внебюджет",
     "sheet": "Программы 8 класс",
@@ -3910,7 +4038,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "8Г",
+    "audience": "8 «Г» класс",
     "grades": [
       8
     ],
@@ -3942,7 +4070,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "8О",
+    "audience": "8 «О» класс",
     "grades": [
       8
     ],
@@ -3974,7 +4102,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "8Э",
+    "audience": "8 «Э» класс",
     "grades": [
       8
     ],
@@ -4006,7 +4134,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6А",
+    "audience": "6 «А» класс",
     "grades": [
       6
     ],
@@ -4038,7 +4166,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Б",
+    "audience": "6 «Б» класс",
     "grades": [
       6
     ],
@@ -4070,7 +4198,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6В",
+    "audience": "6 «В» класс",
     "grades": [
       6
     ],
@@ -4102,7 +4230,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Г",
+    "audience": "6 «Г» класс",
     "grades": [
       6
     ],
@@ -4134,7 +4262,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Д",
+    "audience": "6 «Д» класс",
     "grades": [
       6
     ],
@@ -4166,7 +4294,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Е",
+    "audience": "6 «Е» класс",
     "grades": [
       6
     ],
@@ -4198,7 +4326,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Ж",
+    "audience": "6 «Ж» класс",
     "grades": [
       6
     ],
@@ -4230,7 +4358,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6З",
+    "audience": "6 «З» класс",
     "grades": [
       6
     ],
@@ -4262,7 +4390,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6Э",
+    "audience": "6 «Э» класс",
     "grades": [
       6
     ],
@@ -4294,7 +4422,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "2",
-    "audience": "6У",
+    "audience": "6 «У» класс",
     "grades": [
       6
     ],
@@ -4326,7 +4454,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «А» класс",
     "grades": [
       1
     ],
@@ -4358,7 +4486,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Б» класс",
     "grades": [
       1
     ],
@@ -4390,7 +4518,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «В» класс",
     "grades": [
       1
     ],
@@ -4422,7 +4550,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Г» класс",
     "grades": [
       1
     ],
@@ -4454,7 +4582,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Д» класс",
     "grades": [
       1
     ],
@@ -4486,7 +4614,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "1 класс",
+    "audience": "1 «Е» класс",
     "grades": [
       1
     ],
@@ -4518,7 +4646,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «А» класс",
     "grades": [
       4
     ],
@@ -4550,7 +4678,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Б» класс",
     "grades": [
       4
     ],
@@ -4582,7 +4710,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «В» класс",
     "grades": [
       4
     ],
@@ -4614,7 +4742,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Г» класс",
     "grades": [
       4
     ],
@@ -4646,7 +4774,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Д» класс",
     "grades": [
       4
     ],
@@ -4678,7 +4806,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «М» класс",
     "grades": [
       4
     ],
@@ -4710,7 +4838,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Е» класс",
     "grades": [
       4
     ],
@@ -4742,7 +4870,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «Ж» класс",
     "grades": [
       4
     ],
@@ -4770,11 +4898,11 @@
     "sheet": "Экскурсии",
     "row": 16,
     "name": "Москва глазами современного школьника 4 \"З\" класс ШК2",
-    "teacher": "Ветрова Д.О.",
+    "teacher": "Кукоева Д.О.",
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "4 класс",
+    "audience": "4 «З» класс",
     "grades": [
       4
     ],
@@ -4806,7 +4934,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «А» класс",
     "grades": [
       2
     ],
@@ -4838,7 +4966,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Б» класс",
     "grades": [
       2
     ],
@@ -4870,7 +4998,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «В» класс",
     "grades": [
       2
     ],
@@ -4902,7 +5030,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "2 «Г» класс",
     "grades": [
       2
     ],
@@ -4934,7 +5062,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «А» класс",
     "grades": [
       3
     ],
@@ -4966,7 +5094,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Б» класс",
     "grades": [
       3
     ],
@@ -4998,7 +5126,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «В» класс",
     "grades": [
       3
     ],
@@ -5030,7 +5158,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Г» класс",
     "grades": [
       3
     ],
@@ -5062,7 +5190,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Д» класс",
     "grades": [
       2
     ],
@@ -5094,7 +5222,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Е» класс",
     "grades": [
       2
     ],
@@ -5126,7 +5254,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «З» класс",
     "grades": [
       2
     ],
@@ -5158,7 +5286,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Ж» класс",
     "grades": [
       2
     ],
@@ -5190,7 +5318,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Д» класс",
     "grades": [
       3
     ],
@@ -5222,7 +5350,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Е» класс",
     "grades": [
       3
     ],
@@ -5254,7 +5382,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «М» класс",
     "grades": [
       3
     ],
@@ -5286,7 +5414,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «О» класс",
     "grades": [
       3
     ],
@@ -5318,7 +5446,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «А» класс",
     "grades": [
       5
     ],
@@ -5350,7 +5478,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Б» класс",
     "grades": [
       5
     ],
@@ -5382,7 +5510,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «В» класс",
     "grades": [
       5
     ],
@@ -5446,7 +5574,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Д» класс",
     "grades": [
       5
     ],
@@ -5478,7 +5606,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Е» класс",
     "grades": [
       5
     ],
@@ -5510,7 +5638,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «Т» класс",
     "grades": [
       5
     ],
@@ -5542,7 +5670,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "5 класс",
+    "audience": "5 «И» класс",
     "grades": [
       5
     ],
@@ -5574,7 +5702,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «А» класс",
     "grades": [
       6
     ],
@@ -5606,7 +5734,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Б» класс",
     "grades": [
       6
     ],
@@ -5638,7 +5766,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «В» класс",
     "grades": [
       6
     ],
@@ -5670,7 +5798,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Г» класс",
     "grades": [
       6
     ],
@@ -5702,7 +5830,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «У» класс",
     "grades": [
       6
     ],
@@ -5734,7 +5862,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Д» класс",
     "grades": [
       6
     ],
@@ -5766,7 +5894,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Е» класс",
     "grades": [
       6
     ],
@@ -5798,7 +5926,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Ж» класс",
     "grades": [
       6
     ],
@@ -5830,7 +5958,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «З» класс",
     "grades": [
       6
     ],
@@ -5862,7 +5990,7 @@
     "direction": "Естественно-научная",
     "duration": "1 год",
     "hours": "1",
-    "audience": "6 класс",
+    "audience": "6 «Э» класс",
     "grades": [
       6
     ],
@@ -5894,7 +6022,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Е» класс",
     "grades": [
       7
     ],
@@ -5926,7 +6054,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Г» класс",
     "grades": [
       7
     ],
@@ -5958,7 +6086,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «И» класс",
     "grades": [
       7
     ],
@@ -5990,7 +6118,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «О» класс",
     "grades": [
       7
     ],
@@ -6022,7 +6150,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Т» класс",
     "grades": [
       7
     ],
@@ -6054,7 +6182,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Э» класс",
     "grades": [
       7
     ],
@@ -6086,7 +6214,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «М» класс",
     "grades": [
       7
     ],
@@ -6118,7 +6246,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «К» класс",
     "grades": [
       7
     ],
@@ -6150,7 +6278,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Е» класс",
     "grades": [
       8
     ],
@@ -6182,7 +6310,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Т» класс",
     "grades": [
       8
     ],
@@ -6214,7 +6342,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Э» класс",
     "grades": [
       8
     ],
@@ -6246,7 +6374,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «Г» класс",
     "grades": [
       8
     ],
@@ -6278,7 +6406,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «И» класс",
     "grades": [
       8
     ],
@@ -6310,7 +6438,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «О» класс",
     "grades": [
       8
     ],
@@ -6342,7 +6470,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «К» класс",
     "grades": [
       8
     ],
@@ -6374,7 +6502,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "8 класс",
+    "audience": "8 «М» класс",
     "grades": [
       8
     ],
@@ -6406,7 +6534,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Г» класс",
     "grades": [
       9
     ],
@@ -6438,7 +6566,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Т» класс",
     "grades": [
       9
     ],
@@ -6470,7 +6598,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «О» класс",
     "grades": [
       9
     ],
@@ -6502,7 +6630,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Е» класс",
     "grades": [
       9
     ],
@@ -6534,7 +6662,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «И» класс",
     "grades": [
       9
     ],
@@ -6566,7 +6694,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «М» класс",
     "grades": [
       9
     ],
@@ -6598,7 +6726,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «Л» класс",
     "grades": [
       9
     ],
@@ -6630,7 +6758,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «К» класс",
     "grades": [
       9
     ],
@@ -6662,7 +6790,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Е» класс",
     "grades": [
       10
     ],
@@ -6694,7 +6822,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Г» класс",
     "grades": [
       10
     ],
@@ -6726,7 +6854,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «И» класс",
     "grades": [
       10
     ],
@@ -6758,7 +6886,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «К» класс",
     "grades": [
       10
     ],
@@ -6790,7 +6918,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Ф» класс",
     "grades": [
       10
     ],
@@ -6822,7 +6950,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Ф» класс",
     "grades": [
       11
     ],
@@ -6854,7 +6982,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «И» класс",
     "grades": [
       11
     ],
@@ -6886,7 +7014,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Е» класс",
     "grades": [
       11
     ],
@@ -6918,7 +7046,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «Г» класс",
     "grades": [
       11
     ],
@@ -6950,7 +7078,7 @@
     "direction": "Техническая",
     "duration": "1 год",
     "hours": "1",
-    "audience": "11 класс",
+    "audience": "11 «К» класс",
     "grades": [
       11
     ],
@@ -6977,7 +7105,7 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 2,
-    "name": "Ступпени к успеху.Русский язык 9 класс",
+    "name": "Ступпени к успеху.Русский язык 9 класс ШК1",
     "teacher": "Савоткина Т.С.",
     "direction": "Социально-гуманитарная",
     "duration": "8",
@@ -7000,8 +7128,8 @@
     "priceLesson": "1 250 ₽",
     "price": "5 000 ₽ / месяц · 1 250 ₽ / занятие",
     "description": "Комплексная подготовка обучающихся к выполнению развернутый заданий (изложений, сочинений) для успешного освоения образовательной программы по русскому языку",
-    "mosUrl": "",
-    "workUrl": "",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514825",
+    "workUrl": "https://docs.google.com/document/d/1teh0-IzttODKWuh4AUrIQYMJzdm8hDZA/edit?usp=sharing&ouid=106135738215951193314&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -7009,7 +7137,7 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 3,
-    "name": "Ступпени к успеху.Русский язык 10-11 класс",
+    "name": "Ступпени к успеху. Русский язык 10-11 класс ШК1",
     "teacher": "Савоткина Т.С.",
     "direction": "Социально-гуманитарная",
     "duration": "8",
@@ -7032,9 +7160,9 @@
     "priceMonth": "5 000 ₽",
     "priceLesson": "1 250 ₽",
     "price": "5 000 ₽ / месяц · 1 250 ₽ / занятие",
-    "description": "Комплексная подготовка обучающихся к выполнению развернутый заданий (сочинений) для успешного освоеия образовательной программы по русскому языку",
-    "mosUrl": "",
-    "workUrl": "",
+    "description": "Комплексная подготовка обучающихся к выполнению развернутый заданий (сочинений) для успешного освоения образовательной программы по русскому языку",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514859",
+    "workUrl": "https://docs.google.com/document/d/1BtSI4YFyUdJnXDenR85N1gkwMwhGmx8x/edit?usp=sharing&ouid=106135738215951193314&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -7042,7 +7170,7 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 4,
-    "name": "Ступпени к успеху.Литература 10-11 класс",
+    "name": "Ступпени к успеху. Литература 10-11 класс ШК2",
     "teacher": "Савоткина Т.С.",
     "direction": "Социально-гуманитарная",
     "duration": "8",
@@ -7056,18 +7184,16 @@
       "8–11 классы"
     ],
     "schedule": "Четверг15.30-17.00",
-    "days": [
-      "Чт"
-    ],
+    "days": [],
     "address": "ул.Сталеваров, д.10А, каб.207",
-    "campus": "ШК-1",
+    "campus": "ШК-2",
     "dates": "01.10.2026-30.04.2027",
     "priceMonth": "5 000 ₽",
     "priceLesson": "1 250 ₽",
     "price": "5 000 ₽ / месяц · 1 250 ₽ / занятие",
-    "description": "Комплексная подготовка обучающихся к выполнению развернутый заданий (сочинений) для успешного освоеия образоватеьной программы по литературе",
-    "mosUrl": "",
-    "workUrl": "",
+    "description": "Комплексная подготовка обучающихся к выполнению развернутый заданий (сочинений) для успешного освоения образоватеьной программы по литературе",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514918",
+    "workUrl": "https://docs.google.com/document/d/1BtSI4YFyUdJnXDenR85N1gkwMwhGmx8x/edit?usp=sharing&ouid=106135738215951193314&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -7075,10 +7201,10 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 5,
-    "name": "Лингвистическая копилка. 9 класс",
+    "name": "Лингвистическая копилка. 9 класс ШК1",
     "teacher": "Жарикова О.В.",
     "direction": "Социально-гуманитарная",
-    "duration": "7,5",
+    "duration": "7.5",
     "hours": "1.5",
     "audience": "9 класс",
     "grades": [
@@ -7098,7 +7224,7 @@
     "priceLesson": "1 250 ₽",
     "price": "5 000 ₽ / месяц · 1 250 ₽ / занятие",
     "description": "Комплексная подготовка обучающихся к выполнению развернутых заданий (изложений, сочинений) направлена на формирование ключевых умений и компетенций, которые необходимы для успешного освоения образовательной программы по русскому языку",
-    "mosUrl": "",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516397",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -7107,10 +7233,10 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 6,
-    "name": "Лингвистическая копилка. 11 класс",
+    "name": "Лингвистическая копилка. 11 класс ШК1",
     "teacher": "Жарикова О.В.",
     "direction": "Социально-гуманитарная",
-    "duration": "7,5",
+    "duration": "7.5",
     "hours": "1.5",
     "audience": "11 класс",
     "grades": [
@@ -7130,7 +7256,7 @@
     "priceLesson": "1 500 ₽",
     "price": "6 000 ₽ / месяц · 1 500 ₽ / занятие",
     "description": "Комплексная подготовка обучающихся к выполнению развернутых заданий (сочинений) направлена на формирование ключевых умений и компетенций, которые необходимы для успешного освоения образовательной программы по русскому языку",
-    "mosUrl": "",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516467",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -7139,10 +7265,10 @@
     "source": "Внебюджет",
     "sheet": "Рус.яз и литература",
     "row": 7,
-    "name": "Литературный дневник. 11 класс",
+    "name": "Литературный дневник. 11 класс ШК1",
     "teacher": "Жарикова О.В.",
     "direction": "Социально-гуманитарная",
-    "duration": "7,5",
+    "duration": "7.5",
     "hours": "1.5",
     "audience": "11 класс",
     "grades": [
@@ -7162,7 +7288,7 @@
     "priceLesson": "1 500 ₽",
     "price": "6 000 ₽ / месяц · 1 500 ₽ / занятие",
     "description": "Комплексная подготовка обучающихся к выполнению развернутых заданий (сочинений) направлена на формирование ключевых умений и компетенций, которые необходимы для успешного освоения образовательной программы по литературе",
-    "mosUrl": "",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516564",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -7174,7 +7300,7 @@
     "name": "Литературный дневник. 11 класс",
     "teacher": "Жарикова О.В.",
     "direction": "Социально-гуманитарная",
-    "duration": "2,5",
+    "duration": "2.5",
     "hours": "1.5",
     "audience": "11 класс",
     "grades": [
@@ -7208,7 +7334,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "8",
-    "audience": "2 класс",
+    "audience": "2 «В» класс",
     "grades": [
       2
     ],
@@ -7243,7 +7369,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "4",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «Д» класс",
     "grades": [
       1
     ],
@@ -7263,7 +7389,7 @@
     "price": "4 800 ₽ / месяц · 600 ₽ / занятие",
     "description": "Программа «Эрудит» представляет систему интеллектуально развивающих занятий для обучащихся 2 класса. Программа «Эрудит» является интегративной, объединяющей знания, входящие в предметные области русского языка, математики, литературного чтения, окружающего мира. Разнообразие организационных форм и расширение интеллектуальной сферы каждого обучающегося обеспечивает рост творческого потенциала, познавательных мотивов, обогащение форм взаимодействия со сверстниками и взрослыми в познавательной деятельности. В программу включены занятия «Развитие речи», «Самоподготовка», «Работа с текстом», «Скорочтение», «С математикой на ты».",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444818",
-    "workUrl": "",
+    "workUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444818",
     "funding": "Платно"
   },
   {
@@ -7276,7 +7402,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "8",
-    "audience": "2 класс",
+    "audience": "2 «Ж» класс",
     "grades": [
       2
     ],
@@ -7298,7 +7424,7 @@
     "price": "6 500 ₽ / месяц · 406,25 ₽ / занятие",
     "description": "Программа «Эрудит» представляет систему интеллектуально развивающих занятий для обучащихся 2 класса. Программа «Эрудит» является интегративной, объединяющей знания, входящие в предметные области русского языка, математики, литературного чтения, окружающего мира. Разнообразие организационных форм и расширение интеллектуальной сферы каждого обучающегося обеспечивает рост творческого потенциала, познавательных мотивов, обогащение форм взаимодействия со сверстниками и взрослыми в познавательной деятельности. В программу включены занятия «Развитие речи», «Самоподготовка», «Работа с текстом», «Скорочтение», «С математикой на ты».",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444860",
-    "workUrl": "",
+    "workUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444860",
     "funding": "Платно"
   },
   {
@@ -7311,7 +7437,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "4",
-    "audience": "2 класс",
+    "audience": "2 «Ж» класс",
     "grades": [
       2
     ],
@@ -7331,7 +7457,7 @@
     "price": "4 800 ₽ / месяц · 600 ₽ / занятие",
     "description": "Программа является одним из инструментов для развития интеллектуальных способностей детей. Цель - оказание помощи учащимся в преодолении учебных затруднений в процессе выполнения домашней работы. Работая в малой группе, каждый ребенок будет иметь возможность выполнять домашние задания по русскому языку и математике под руководством учителя. Условия реализации данной Программы позволяют осуществлять индивидуальное консультирование и сопровождение каждого ученика.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444889",
-    "workUrl": "",
+    "workUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444889",
     "funding": "Платно"
   },
   {
@@ -7344,7 +7470,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "3",
-    "audience": "3 класс",
+    "audience": "3 «Е» класс",
     "grades": [
       3
     ],
@@ -7377,7 +7503,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "4",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «Е» класс",
     "grades": [
       1
     ],
@@ -7410,7 +7536,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "4",
-    "audience": "Дошкольники",
+    "audience": "5–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -7425,7 +7551,7 @@
     "dates": "14.09.2026 - 30.04.2027",
     "priceMonth": "",
     "priceLesson": "1 000 ₽ / 1 день",
-    "price": "1 000 ₽ / 1 день",
+    "price": "1 000 ₽ / 1 день / занятие",
     "description": "Программа готовит детей к обучению в школе, осуществляя преемственность между дошкольным и начальным общим образованием. Цель программы – успешная адаптация детей дошкольного возраста к новым образовательным условиям и создание условий гуманного (комфортного) перехода с одной образовательной ступени на другую.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2457243",
     "workUrl": "https://docs.google.com/document/d/1g92ZsxzTmtKmgX8_4t1BIZsbH_3udWQJ/edit?usp=drive_link&ouid=107014574549389973570&rtpof=true&sd=true",
@@ -7441,7 +7567,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «А» класс",
     "grades": [
       3
     ],
@@ -7474,7 +7600,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Д» класс",
     "grades": [
       2
     ],
@@ -7506,7 +7632,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «В» класс",
     "grades": [
       3
     ],
@@ -7539,7 +7665,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "2 класс",
+    "audience": "2 «Е» класс",
     "grades": [
       2
     ],
@@ -7572,7 +7698,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "2 класс",
+    "audience": "2 «О» класс",
     "grades": [
       2
     ],
@@ -7605,7 +7731,7 @@
     "direction": "Художественная",
     "duration": "7",
     "hours": "1",
-    "audience": "7-9",
+    "audience": "7–9 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -7635,7 +7761,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «Г» класс",
     "grades": [
       3
     ],
@@ -7668,7 +7794,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «Д» класс",
     "grades": [
       3
     ],
@@ -7701,7 +7827,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "1",
-    "audience": "3 класс",
+    "audience": "3 «Д» класс",
     "grades": [
       3
     ],
@@ -7733,7 +7859,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «Б» класс",
     "grades": [
       3
     ],
@@ -7799,7 +7925,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «А» класс",
     "grades": [
       1
     ],
@@ -7832,7 +7958,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «Б» класс",
     "grades": [
       1
     ],
@@ -7865,7 +7991,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «В» класс",
     "grades": [
       1
     ],
@@ -7898,7 +8024,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "2 класс",
+    "audience": "2 «Б» класс",
     "grades": [
       2
     ],
@@ -7931,7 +8057,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "2 класс",
+    "audience": "2 «Г» класс",
     "grades": [
       2
     ],
@@ -7964,7 +8090,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "2 класс",
+    "audience": "2 «А» класс",
     "grades": [
       2
     ],
@@ -7984,7 +8110,7 @@
     "price": "4 800 ₽ / месяц · 600 ₽ / занятие",
     "description": "Программа является одним из инструментов для развития интеллектуальных способностей детей. Цель - оказание помощи учащимся в преодолении учебных затруднений в процессе выполнения домашней работы. Работая в малой группе, каждый ребенок будет иметь возможность выполнять домашние задания по русскому языку и математике под руководством учителя. Условия реализации данной Программы позволяют осуществлять индивидуальное консультирование и сопровождение каждого ученика.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2456667",
-    "workUrl": "",
+    "workUrl": "https://docs.google.com/document/d/1PBuJP-HsfColi8BHmnILiGkUP6PJcZjq/edit?usp=drive_link&ouid=102663802300934322435&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -7997,7 +8123,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «А» класс",
     "grades": [
       2
     ],
@@ -8016,7 +8142,7 @@
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
     "description": "Основные цели и задачи курса: формирование интереса к изучению родного языка, развитие познавательных способностей, углубление знаний по грамматике и фонетике через игровую деятельность. • Повышение мотивации: Показать, что грамматика — это не скучно, а увлекательно. • Углубление знаний: Закрепление материала по фонетике, орфографии и лексике. • Развитие речи: Формирование навыков грамотной устной и письменной речи. • Развитие мышления: Тренировка логики, внимания, памяти и воображения посредством лингвистических игр. • Воспитание любви к языку: Формирование бережного отношения к слову",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2456792",
-    "workUrl": "",
+    "workUrl": "https://docs.google.com/document/d/1rpMNTryaRPk1hwII0cZMcCFKKyIRc4ZB/edit?usp=drive_link&ouid=102663802300934322435&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -8029,7 +8155,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «А» класс",
     "grades": [
       2
     ],
@@ -8048,7 +8174,7 @@
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
     "description": "Программа является одним из инструментов для развития интеллектуальных и познавательных способностей детей. Цель - 1. обучение логическим операциям 2. улучшение внимания, памяти и воображения 3. формирование интереса к учебе через нестандартные и игровые задания 4. умение находить гибкие и оригинальные решения задач.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2456809",
-    "workUrl": "",
+    "workUrl": "https://docs.google.com/document/d/1OFRzEPWvAXVpUb_e-gtJ6IgXnpV2aA4Q/edit?usp=drive_link&ouid=102663802300934322435&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -8061,7 +8187,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Г» класс",
     "grades": [
       2
     ],
@@ -8093,7 +8219,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Г» класс",
     "grades": [
       2
     ],
@@ -8125,7 +8251,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "3 класс",
+    "audience": "3 «О» класс",
     "grades": [
       3
     ],
@@ -8158,7 +8284,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "8-10",
+    "audience": "8–10 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -8188,7 +8314,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "8",
     "hours": "2",
-    "audience": "1 класс",
+    "audience": "1 «Г» класс",
     "grades": [
       1
     ],
@@ -8221,7 +8347,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Б» класс",
     "grades": [
       2
     ],
@@ -8234,7 +8360,7 @@
     ],
     "address": "ШК-4 Сталеваров, 8Б",
     "campus": "ШК-4",
-    "dates": "08.09.26- 21.05.27",
+    "dates": "08.09.26- 21.05.2027",
     "priceMonth": "2 500 ₽",
     "priceLesson": "625 ₽",
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
@@ -8253,7 +8379,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2 класс",
+    "audience": "2 «Б» класс",
     "grades": [
       2
     ],
@@ -8266,7 +8392,7 @@
     ],
     "address": "ШК-4 Сталеваров, 8Б",
     "campus": "ШК-4",
-    "dates": "10.09.26- 21.05.27",
+    "dates": "10.09.26- 21.05.2027",
     "priceMonth": "2 500 ₽",
     "priceLesson": "625 ₽",
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
@@ -8285,7 +8411,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "8-10",
+    "audience": "8–10 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -8296,7 +8422,7 @@
     ],
     "address": "ШК-5 Молостовых 1/5",
     "campus": "ШК-5",
-    "dates": "09.09.26- 21.05.27",
+    "dates": "09.09.26- 21.05.2027",
     "priceMonth": "2 500 ₽",
     "priceLesson": "625 ₽",
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
@@ -8315,7 +8441,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "8-10",
+    "audience": "8–10 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -8327,13 +8453,44 @@
     ],
     "address": "ШК-5 Молостовых 1/5",
     "campus": "ШК-5",
-    "dates": "08.09.26- 21.05.27",
+    "dates": "08.09.26- 21.05.2027",
     "priceMonth": "2 500 ₽",
     "priceLesson": "625 ₽",
     "price": "2 500 ₽ / месяц · 625 ₽ / занятие",
     "description": "Увлекательные занятия по каллиграфии, где он не только научится красиво писать, но и разовьёт важные навыки для успешного обучения! Наша программа поможет превратить обычное письмо в творческий процесс, развить мелкую моторику, внимание и усидчивость. На занятиях дети освоят искусство красивого письма, познакомятся с историей письменности и научатся правильно держать ручку. Мы используем современные методики, которые делают обучение интересным и эффективным. Программа подходит для детей 8-10 лет и проводится в комфортной групповой форме. Регулярные занятия помогут вашему ребёнку улучшить почерк, развить эстетический вкус и уверенность в себе. В процессе обучения дети участвуют в выставках, конкурсах и творческих проектах, что способствует их всестороннему развитию. Присоединяйтесь к нам — подарите своему ребёнку возможность раскрыть свой творческий потенциал!",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2505509",
     "workUrl": "https://docs.google.com/document/d/1ues52b04p7klgHpDa0moEOV1Y6mKPMRz/edit?usp=sharing&ouid=114232077900071563246&rtpof=true&sd=true",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-НОО-37",
+    "source": "Внебюджет",
+    "sheet": "НОО",
+    "row": 37,
+    "name": "Занимательный английский ШК5",
+    "teacher": "Давлятшина Светлана Юрьевна",
+    "direction": "Социально-гуманитарная",
+    "duration": "9",
+    "hours": "2",
+    "audience": "7–10 лет",
+    "grades": [],
+    "audienceGroups": [
+      "1–4 классы"
+    ],
+    "schedule": "Вторник 14.30 - 15.30 Пятница 12:30-13:30",
+    "days": [
+      "Вт",
+      "Пт"
+    ],
+    "address": "ШК-5 Молостовых 1/5",
+    "campus": "ШК-5",
+    "dates": "14.09.26 - 21.05.26",
+    "priceMonth": "5 000 ₽",
+    "priceLesson": "625 ₽",
+    "price": "5 000 ₽ / месяц · 625 ₽ / занятие",
+    "description": "Данный курс направлен на прочное усвоение материала по английскому языку в рамках начального общего образования. Занятия в кружке помогают закрепить школьную программу, развить интерес к языку и улучшить практические навыки общения у второклассников.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516745",
+    "workUrl": "https://docs.google.com/document/d/1ShvNvAAyPI-Qp41juj6X_cwrULyrHTMU/edit?usp=drive_link&ouid=107266805486539570779&rtpof=true&sd=true",
     "funding": "Платно"
   },
   {
@@ -8346,7 +8503,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «И» класс",
     "grades": [
       10
     ],
@@ -8378,7 +8535,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «И» класс",
     "grades": [
       10
     ],
@@ -8410,7 +8567,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Ф» класс",
     "grades": [
       10
     ],
@@ -8442,7 +8599,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "10 класс",
+    "audience": "10 «Ф» класс",
     "grades": [
       10
     ],
@@ -8474,7 +8631,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Т» класс",
     "grades": [
       7
     ],
@@ -8487,44 +8644,12 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
+    "dates": "01.09.2026-28.05.2027",
     "priceMonth": "1 000 ₽",
     "priceLesson": "250 ₽",
     "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
     "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2464503",
-    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
-    "funding": "Платно"
-  },
-  {
-    "id": "p-Информатика-7",
-    "source": "Внебюджет",
-    "sheet": "Информатика",
-    "row": 7,
-    "name": "3D-моделирование 2 группа 8 \"Т\" класс ШК1",
-    "teacher": "Наместников М.В.",
-    "direction": "Техническая",
-    "duration": "9",
-    "hours": "1",
-    "audience": "8 класс",
-    "grades": [
-      8
-    ],
-    "audienceGroups": [
-      "8–11 классы"
-    ],
-    "schedule": "среда 16.25 - 17.10",
-    "days": [
-      "Ср"
-    ],
-    "address": "Сталеваров 10А",
-    "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
-    "priceMonth": "1 000 ₽",
-    "priceLesson": "250 ₽",
-    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
-    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
-    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444617",
     "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
     "funding": "Платно"
   },
@@ -8538,7 +8663,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «Т» класс",
     "grades": [
       7
     ],
@@ -8551,108 +8676,12 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
+    "dates": "01.09.2026-28.05.2027",
     "priceMonth": "1 000 ₽",
     "priceLesson": "250 ₽",
     "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
     "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2464547",
-    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
-    "funding": "Платно"
-  },
-  {
-    "id": "p-Информатика-9",
-    "source": "Внебюджет",
-    "sheet": "Информатика",
-    "row": 9,
-    "name": "3D-моделирование 1 группа 8 \"Т\" класс ШК1",
-    "teacher": "Малышева Е.В.",
-    "direction": "Техническая",
-    "duration": "9",
-    "hours": "1",
-    "audience": "8 класс",
-    "grades": [
-      8
-    ],
-    "audienceGroups": [
-      "8–11 классы"
-    ],
-    "schedule": "среда 16.25 - 17.10",
-    "days": [
-      "Ср"
-    ],
-    "address": "Сталеваров 10А",
-    "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
-    "priceMonth": "1 000 ₽",
-    "priceLesson": "250 ₽",
-    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
-    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
-    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444612",
-    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
-    "funding": "Платно"
-  },
-  {
-    "id": "p-Информатика-10",
-    "source": "Внебюджет",
-    "sheet": "Информатика",
-    "row": 10,
-    "name": "3D-моделирование 1 группа 8 \"И\" класс ШК1",
-    "teacher": "Малышева Е.В.",
-    "direction": "Техническая",
-    "duration": "9",
-    "hours": "1",
-    "audience": "8 класс",
-    "grades": [
-      8
-    ],
-    "audienceGroups": [
-      "8–11 классы"
-    ],
-    "schedule": "среда 15.30-16.15",
-    "days": [
-      "Ср"
-    ],
-    "address": "Сталеваров 10А",
-    "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
-    "priceMonth": "1 000 ₽",
-    "priceLesson": "250 ₽",
-    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
-    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
-    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444590",
-    "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
-    "funding": "Платно"
-  },
-  {
-    "id": "p-Информатика-11",
-    "source": "Внебюджет",
-    "sheet": "Информатика",
-    "row": 11,
-    "name": "3D-моделирование 2 группа 8 \"И\" класс ШК1",
-    "teacher": "Малышева Е.В.",
-    "direction": "Техническая",
-    "duration": "9",
-    "hours": "1",
-    "audience": "8 класс",
-    "grades": [
-      8
-    ],
-    "audienceGroups": [
-      "8–11 классы"
-    ],
-    "schedule": "четверг 15.30-16.15",
-    "days": [
-      "Чт"
-    ],
-    "address": "Сталеваров 10А",
-    "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
-    "priceMonth": "1 000 ₽",
-    "priceLesson": "250 ₽",
-    "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
-    "description": "Конструкторское трехмерное моделирование в программе Компас - 3D",
-    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2444603",
     "workUrl": "https://docs.google.com/document/d/1nuxOp8b5WHFIjfJWJQtdkoYf5W8pwQmJ/edit?usp=sharing&ouid=104078019711413929826&rtpof=true&sd=true",
     "funding": "Платно"
   },
@@ -8666,7 +8695,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «И» класс",
     "grades": [
       7
     ],
@@ -8679,7 +8708,7 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
+    "dates": "01.09.2026-28.05.2027",
     "priceMonth": "1 000 ₽",
     "priceLesson": "250 ₽",
     "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
@@ -8698,7 +8727,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "7 класс",
+    "audience": "7 «И» класс",
     "grades": [
       7
     ],
@@ -8711,7 +8740,7 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "01.09.2026-28.05.27",
+    "dates": "01.09.2026-28.05.2027",
     "priceMonth": "1 000 ₽",
     "priceLesson": "250 ₽",
     "price": "1 000 ₽ / месяц · 250 ₽ / занятие",
@@ -8794,7 +8823,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "3-4 класс",
+    "audience": "3–4 класс",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -8854,7 +8883,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "1",
-    "audience": "7–10 классы",
+    "audience": "7, 8, 9, 10 классы",
     "grades": [
       7,
       8,
@@ -8926,7 +8955,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -8958,7 +8987,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -8990,7 +9019,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9021,7 +9050,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9123,14 +9152,14 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "10-16 лет",
+    "audience": "10–16 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
       "5–7 классы",
       "8–11 классы"
     ],
-    "schedule": "Среда 14:45 – 15:45 , Пятница 14:45 – 15:45",
+    "schedule": "среда, пятница : 14:45-15.45",
     "days": [
       "Ср",
       "Пт"
@@ -9141,7 +9170,7 @@
     "priceMonth": "4 000 ₽",
     "priceLesson": "500 ₽",
     "price": "4 000 ₽ / месяц · 500 ₽ / занятие",
-    "description": "01.09.2026;1.06.2027",
+    "description": "Общая физическая подготовка (ОФП) с элементами единоборств — это комплекс тренировок, который укрепляет здоровье и развивает силу, ловкость, координацию и выносливость с помощью базовых движений из классических видов борьбы .",
     "mosUrl": "",
     "workUrl": "",
     "funding": "Платно"
@@ -9188,7 +9217,7 @@
     "direction": "Техническая",
     "duration": "9 месяцев",
     "hours": "1",
-    "audience": "9 класс",
+    "audience": "9 «М» класс",
     "grades": [
       9
     ],
@@ -9205,8 +9234,8 @@
     "priceMonth": "3 200 ₽",
     "priceLesson": "800 ₽",
     "price": "3 200 ₽ / месяц · 800 ₽ / занятие",
-    "description": "Комплексная подготовка обучающихся к выполнению развернутых заданий 2 части для успешной сдачи ОГЭ по математике",
-    "mosUrl": "",
+    "description": "Комплексная подготовка обучающихся к выполнению развернутых заданий для дополнительной подготовки к успешной сдачи экзаменов любой сложности",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514785",
     "workUrl": "https://docs.google.com/document/d/14GpQoj-Bq25Leg88JWNuVD9B8lEvtu-I/edit?usp=drive_link&ouid=102894001336238759117&rtpof=true&sd=true",
     "funding": "Платно"
   },
@@ -9286,7 +9315,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "7",
     "hours": "2",
-    "audience": "12-13",
+    "audience": "12–13 лет",
     "grades": [],
     "audienceGroups": [
       "5–7 классы"
@@ -9298,7 +9327,7 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "1.10.2026-30.04.2027",
+    "dates": "01.10.2026-30.04.2027",
     "priceMonth": "6 000 ₽",
     "priceLesson": "750 ₽",
     "price": "6 000 ₽ / месяц · 750 ₽ / занятие",
@@ -9312,21 +9341,19 @@
     "source": "Внебюджет",
     "sheet": "Англ.яз",
     "row": 5,
-    "name": "Cambridge English Prepare 4-5 класс",
+    "name": "Cambridge English Prepare 2, 6 класс ШК2",
     "teacher": "Ремизова Виолетта Анатольевна",
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "4–5 классы",
+    "audience": "6 класс",
     "grades": [
-      4,
-      5
+      6
     ],
     "audienceGroups": [
-      "1–4 классы",
       "5–7 классы"
     ],
-    "schedule": "вторник, четверг 14:35-15:20",
+    "schedule": "вторник, четверг 14:40-15:25",
     "days": [
       "Вт",
       "Чт"
@@ -9334,11 +9361,11 @@
     "address": "шк2, Сталеваров, 16а",
     "campus": "ШК-2",
     "dates": "15.09.2026-31.05.2027",
-    "priceMonth": "5 500 ₽",
-    "priceLesson": "687,5 ₽",
-    "price": "5 500 ₽ / месяц · 687,5 ₽ / занятие",
-    "description": "",
-    "mosUrl": "",
+    "priceMonth": "5 600 ₽",
+    "priceLesson": "700 ₽",
+    "price": "5 600 ₽ / месяц · 700 ₽ / занятие",
+    "description": "Cambridge English: Prepare 2 – общий курс английского языка с интегрированной всесторонней подготовкой к экзаменам Cambridge English for Schools. Этот гибкий курс объединяет все инструменты и технологии, которые необходимы для достижения лучших результатов. Книга для учащихся 2-го уровня вовлекает учащихся и расширяет словарный запас с помощью мотивирующих, соответствующих возрасту тем. Его уникальный подход основан на передовых языковых исследованиях English Profile и Cambridge Learner Corpus. Курс развивает навыки письма и устной речи.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514416",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -9347,32 +9374,31 @@
     "source": "Внебюджет",
     "sheet": "Англ.яз",
     "row": 6,
-    "name": "Cambridge English Prepare 6-7 класс",
+    "name": "Cambridge English Prepare 2. 6 класс группа 2 ШК2",
     "teacher": "Ремизова Виолетта Анатольевна",
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "6–7 классы",
+    "audience": "6 класс",
     "grades": [
-      6,
-      7
+      6
     ],
     "audienceGroups": [
       "5–7 классы"
     ],
-    "schedule": "понедельник, среда 14:35-15:20",
+    "schedule": "понедельник, среда 14:40-15:25",
     "days": [
       "Пн",
       "Ср"
     ],
     "address": "шк2, Сталеваров, 16а",
     "campus": "ШК-2",
-    "dates": "15.09.2026-31.05.2027",
-    "priceMonth": "5 500 ₽",
-    "priceLesson": "687,5 ₽",
-    "price": "5 500 ₽ / месяц · 687,5 ₽ / занятие",
-    "description": "«Английский на «5»), направленна на изучение предметов и предметных областей и на развитие коммуникативной компетенции обучающихся 7-8 классов во всех видах речевой деятельности. Она ориентирован на расширение предметных знаний по лексике, грамматике и развитие практических навыков коммуникативной компетенции за счет дополнительного информационного поля и сферы аутентичного использования английского языка. Педагогическая целесообразность данной программы дополнительного образования обусловлена важностью создания условий для формирования и обучающихся коммуникативных и социальных навыков, необходимых для успешного интеллектуального развития школьников.",
-    "mosUrl": "",
+    "dates": "14.09.2026-31.05.2027",
+    "priceMonth": "5 600 ₽",
+    "priceLesson": "700 ₽",
+    "price": "5 600 ₽ / месяц · 700 ₽ / занятие",
+    "description": "Cambridge English: Prepare 2 – общий курс английского языка с интегрированной всесторонней подготовкой к экзаменам Cambridge English for Schools. Этот гибкий курс объединяет все инструменты и технологии, которые необходимы для достижения лучших результатов. Книга для учащихся 2-го уровня вовлекает учащихся и расширяет словарный запас с помощью мотивирующих, соответствующих возрасту тем. Его уникальный подход основан на передовых языковых исследованиях English Profile и Cambridge Learner Corpus. Курс развивает навыки письма и устной речи.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514644",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -9386,7 +9412,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "7",
     "hours": "2",
-    "audience": "15-18",
+    "audience": "15–18 лет",
     "grades": [],
     "audienceGroups": [
       "8–11 классы"
@@ -9432,8 +9458,8 @@
     "campus": "ШК-1",
     "dates": "15.09.2026-31.05.2027",
     "priceMonth": "5 500 ₽",
-    "priceLesson": "687,5 ₽",
-    "price": "5 500 ₽ / месяц · 687,5 ₽ / занятие",
+    "priceLesson": "687,50 ₽",
+    "price": "5 500 ₽ / месяц · 687,50 ₽ / занятие",
     "description": "",
     "mosUrl": "",
     "workUrl": "",
@@ -9449,7 +9475,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "8-9",
+    "audience": "8–9 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -9461,10 +9487,10 @@
     ],
     "address": "ШК5 Молостовых, 1к5",
     "campus": "ШК-5",
-    "dates": "10.09.2026- 28.05.27",
+    "dates": "10.09.2026- 28.05.2027",
     "priceMonth": "5 500 ₽",
-    "priceLesson": "687,5 ₽",
-    "price": "5 500 ₽ / месяц · 687,5 ₽ / занятие",
+    "priceLesson": "687,50 ₽",
+    "price": "5 500 ₽ / месяц · 687,50 ₽ / занятие",
     "description": "Данная программа позволяет углубить и расширить знания английского языка учащихся 3 классов. С этой целью в программе предусмотрено значительное увеличение активных форм работы, направленных на вовлечение учащихся в динамичную деятельность, на обеспечение понимания ими языкового материала и развития интеллекта, приобретение практических навыков самостоятельной деятельности. Цель программы - формирование коммуникативных навыков учащихся через игровую и проектную деятельность посредством английского языка. Условия реализации данной программы позволяют осуществлять индивидуальное консультирование и сопровождение каждого ученика.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2503564",
     "workUrl": "",
@@ -9480,7 +9506,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "7-8",
+    "audience": "7–8 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -9491,7 +9517,7 @@
     ],
     "address": "ШК5 Молостовых, 1к5",
     "campus": "ШК-5",
-    "dates": "08.09.2026-25.05.27",
+    "dates": "08.09.2026-25.05.2027",
     "priceMonth": "3 500 ₽",
     "priceLesson": "875 ₽",
     "price": "3 500 ₽ / месяц · 875 ₽ / занятие",
@@ -9589,7 +9615,7 @@
       "Чт"
     ],
     "address": "ШК 2 Сталеваров 16А",
-    "campus": "ШК-4",
+    "campus": "ШК-2",
     "dates": "08.09.2026-30.05.2027",
     "priceMonth": "6 000 ₽",
     "priceLesson": "750 ₽",
@@ -9609,7 +9635,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "7",
     "hours": "2",
-    "audience": "15-18",
+    "audience": "15–18 лет",
     "grades": [],
     "audienceGroups": [
       "8–11 классы"
@@ -9653,7 +9679,7 @@
     ],
     "address": "ШК1, Сталеваров, 10а",
     "campus": "ШК-1",
-    "dates": "1.102026-30.04 2027",
+    "dates": "01.10.2026-30.04.2027",
     "priceMonth": "",
     "priceLesson": "",
     "price": "Стоимость уточняется",
@@ -9721,8 +9747,8 @@
     "priceMonth": "3 200 ₽",
     "priceLesson": "800 ₽",
     "price": "3 200 ₽ / месяц · 800 ₽ / занятие",
-    "description": "",
-    "mosUrl": "",
+    "description": "В рамках данного кружка осуществляется фокус на взаимодействии с учениками, испытывающими затруднения в освоении учебной программы 2 класса. С этой целью в программе предусмотрено увеличение активных форм работы, направленных на вовлечение учащихся в динамичную познавательную деятельность, обеспечение понимания ими языкового материала, а также приобретение практических навыков самостоятельной речевой деятельности. Цель программы - формирование коммуникативных навыков учащихся посредством английского языка. Помощь в выполнении домашнего задания по английскому языку; развитие мотивации к дальнейшему овладению английским языком.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2514674",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -9736,7 +9762,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "9-10",
+    "audience": "9–10 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -9748,10 +9774,10 @@
     ],
     "address": "шк2, Сталеваров, 16а",
     "campus": "ШК-2",
-    "dates": "07.09.2025- 27.05.2027",
+    "dates": "07.09.2026- 27.05.2027",
     "priceMonth": "5 500 ₽",
-    "priceLesson": "687,5 ₽",
-    "price": "5 500 ₽ / месяц · 687,5 ₽ / занятие",
+    "priceLesson": "687,50 ₽",
+    "price": "5 500 ₽ / месяц · 687,50 ₽ / занятие",
     "description": "Данная программа позволяет углубить и расширить знания английского языка учащихся 4 классов. С этой целью в программе предусмотрено значительное увеличение активных форм работы, направленных на вовлечение учащихся в динамичную деятельность, на обеспечение понимания ими языкового материала и развития интеллекта, приобретение практических навыков самостоятельной деятельности. Цель программы - формирование коммуникативных навыков учащихся через игровую и проектную деятельность посредством английского языка. Условия реализации данной программы позволяют осуществлять индивидуальное консультирование и сопровождение каждого ученика.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2508889",
     "workUrl": "",
@@ -9781,7 +9807,7 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "1.10.26-30.04.27",
+    "dates": "1.10.26-30.04.2027",
     "priceMonth": "6 000 ₽",
     "priceLesson": "750 ₽",
     "price": "6 000 ₽ / месяц · 750 ₽ / занятие",
@@ -9815,7 +9841,7 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "1.10.26-30.04.27",
+    "dates": "1.10.26-30.04.2027",
     "priceMonth": "6 000 ₽",
     "priceLesson": "750 ₽",
     "price": "6 000 ₽ / месяц · 750 ₽ / занятие",
@@ -9849,12 +9875,111 @@
     ],
     "address": "Сталеваров 10А",
     "campus": "ШК-1",
-    "dates": "1.10.26-30.04.27",
+    "dates": "1.10.26-30.04.2027",
     "priceMonth": "6 000 ₽",
     "priceLesson": "750 ₽",
     "price": "6 000 ₽ / месяц · 750 ₽ / занятие",
     "description": "Целью данного кружка является развитие и совершенствование коммуникативных умений обучающихся (10-11 классы) по английскому языку в четырех основных видах деятельности: аудирование, чтение, письмо, говорение, а также отработки лексических и грамматических навыков.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2510911",
+    "workUrl": "",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Англ.яз-22",
+    "source": "Внебюджет",
+    "sheet": "Англ.яз",
+    "row": 22,
+    "name": "English-Upgrade 6 - 6 класс ШК2",
+    "teacher": "Ремизова Виолетта Анатольевна",
+    "direction": "Социально-гуманитарная",
+    "duration": "9",
+    "hours": "2",
+    "audience": "6–6 классы",
+    "grades": [
+      6
+    ],
+    "audienceGroups": [
+      "5–7 классы"
+    ],
+    "schedule": "вторник, четверг 15.30-16.15",
+    "days": [
+      "Вт",
+      "Чт"
+    ],
+    "address": "Сталеваров, 16А",
+    "campus": "ШК-2",
+    "dates": "15.09.26-31.05.2027",
+    "priceMonth": "5 600 ₽",
+    "priceLesson": "700 ₽",
+    "price": "5 600 ₽ / месяц · 700 ₽ / занятие",
+    "description": "Данная программа позволяет углубить и расширить знания английского языка учащихся 5 классов. С этой целью в программе предусмотрено значительное увеличение активных форм работы, направленных на вовлечение учащихся в динамичную деятельность, на обеспечение понимания ими языкового материала и развития интеллекта, приобретение практических навыков самостоятельной деятельности. Отрабатываются типовые задания, развиваются навыки аудирования, чтения, письма и говорения в формате экзамена. Помощь в выполнении домашнего задания.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516596",
+    "workUrl": "",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Англ.яз-23",
+    "source": "Внебюджет",
+    "sheet": "Англ.яз",
+    "row": 23,
+    "name": "English-Upgrade 5 - 5 класс ШК2",
+    "teacher": "Ремизова Виолетта Анатольевна",
+    "direction": "Социально-гуманитарная",
+    "duration": "9",
+    "hours": "2",
+    "audience": "5–5 классы",
+    "grades": [
+      5
+    ],
+    "audienceGroups": [
+      "5–7 классы"
+    ],
+    "schedule": "четверг, пятница 13.35-14.20",
+    "days": [
+      "Чт",
+      "Пт"
+    ],
+    "address": "Сталеваров,16А",
+    "campus": "ШК-2",
+    "dates": "16.09.26-31.05.2027",
+    "priceMonth": "5 600 ₽",
+    "priceLesson": "700 ₽",
+    "price": "5 600 ₽ / месяц · 700 ₽ / занятие",
+    "description": "Данная программа позволяет углубить и расширить знания английского языка учащихся 5 классов. С этой целью в программе предусмотрено значительное увеличение активных форм работы, направленных на вовлечение учащихся в динамичную деятельность, на обеспечение понимания ими языкового материала и развития интеллекта, приобретение практических навыков самостоятельной деятельности. Отрабатываются типовые задания, развиваются навыки аудирования, чтения, письма и говорения в формате экзамена. Помощь в выполнении домашнего задания.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516689",
+    "workUrl": "",
+    "funding": "Платно"
+  },
+  {
+    "id": "p-Англ.яз-24",
+    "source": "Внебюджет",
+    "sheet": "Англ.яз",
+    "row": 24,
+    "name": "Prepare 2. 5 класс ШК2",
+    "teacher": "Ремизова Виолетта Анатольевна",
+    "direction": "Социально-гуманитарная",
+    "duration": "9",
+    "hours": "2",
+    "audience": "5 класс",
+    "grades": [
+      5
+    ],
+    "audienceGroups": [
+      "5–7 классы"
+    ],
+    "schedule": "четверг, пятница 14.25-15.10",
+    "days": [
+      "Чт",
+      "Пт"
+    ],
+    "address": "Сталеваров,16А",
+    "campus": "ШК-2",
+    "dates": "16.09.26-31.05.2027",
+    "priceMonth": "5 600 ₽",
+    "priceLesson": "700 ₽",
+    "price": "5 600 ₽ / месяц · 700 ₽ / занятие",
+    "description": "Cambridge English: Prepare 2 – общий курс английского языка с интегрированной всесторонней подготовкой к экзаменам Cambridge English for Schools. Этот гибкий курс объединяет все инструменты и технологии, которые необходимы для достижения лучших результатов. Книга для учащихся 2-го уровня вовлекает учащихся и расширяет словарный запас с помощью мотивирующих, соответствующих возрасту тем. Его уникальный подход основан на передовых языковых исследованиях English Profile и Cambridge Learner Corpus. Курс развивает навыки письма и устной речи.",
+    "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2516713",
     "workUrl": "",
     "funding": "Платно"
   },
@@ -9868,7 +9993,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9877,9 +10002,6 @@
     "schedule": "По индивидуальному графику Понедельник-пятница 16.00-19.00",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Сталеваров, 16А",
@@ -9903,7 +10025,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9912,14 +10034,11 @@
     "schedule": "По индивидуальному графику Понедельник-пятница 16.00-19.00",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Сталеваров, 8Б",
     "campus": "ШК-4",
-    "dates": "01.09.2026 - 31.05.2028",
+    "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "12 000 ₽",
     "priceLesson": "1 500 ₽",
     "price": "12 000 ₽ / месяц · 1 500 ₽ / занятие",
@@ -9938,7 +10057,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9947,14 +10066,11 @@
     "schedule": "По индивидуальному графику Понедельник-пятница 16.00-19.01",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Сталеваров, 16А",
     "campus": "ШК-2",
-    "dates": "01.09.2026 - 31.05.2029",
+    "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "10 000 ₽",
     "priceLesson": "1 250 ₽",
     "price": "10 000 ₽ / месяц · 1 250 ₽ / занятие",
@@ -9973,7 +10089,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -9982,14 +10098,11 @@
     "schedule": "По индивидуальному графику Понедельник-пятница 16.00-19.02",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Сталеваров, 8Б",
     "campus": "ШК-4",
-    "dates": "01.09.2026 - 31.05.2030",
+    "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "10 000 ₽",
     "priceLesson": "1 250 ₽",
     "price": "10 000 ₽ / месяц · 1 250 ₽ / занятие",
@@ -10008,10 +10121,9 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-18 лет",
+    "audience": "6–18 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы",
       "5–7 классы",
       "8–11 классы"
@@ -10045,10 +10157,9 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-8 лет",
+    "audience": "6–8 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы"
     ],
     "schedule": "Понедельник, вторник, среда, четверг, пятница (по индивидуальному графику)",
@@ -10121,7 +10232,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-8 лет",
+    "audience": "7–8 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -10135,8 +10246,8 @@
     "campus": "ШК-2",
     "dates": "01.09.2026 - 28.05.2027",
     "priceMonth": "2 500 ₽",
-    "priceLesson": "312,5 ₽",
-    "price": "2 500 ₽ / месяц · 312,5 ₽ / занятие",
+    "priceLesson": "312,50 ₽",
+    "price": "2 500 ₽ / месяц · 312,50 ₽ / занятие",
     "description": "Программа обучения в объединении «Волшебная кисточка» ориентирует на одновременное решение задач художественного образования и эстетического воспитания, т. е. рассматривает обучение и воспитание как единое целое. Программа раскрывает характер обучения изобразительному искусству в кружке как комплексный процесс формирования у обучающихся духовной культуры, овладения ими основами художественной культуры. Особенность программы заключается во взаимосвязи занятий по рисованию, лепке, аппликации.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2447951",
     "workUrl": "",
@@ -10152,7 +10263,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10167,8 +10278,8 @@
     "campus": "ШК-4",
     "dates": "01.09.2026 - 28.05.2027",
     "priceMonth": "2 500 ₽",
-    "priceLesson": "312,5 ₽",
-    "price": "2 500 ₽ / месяц · 312,5 ₽ / занятие",
+    "priceLesson": "312,50 ₽",
+    "price": "2 500 ₽ / месяц · 312,50 ₽ / занятие",
     "description": "Программа обучения в объединении «Волшебная кисточка» ориентирует на одновременное решение задач художественного образования и эстетического воспитания, т. е. рассматривает обучение и воспитание как единое целое. Программа раскрывает характер обучения изобразительному искусству в кружке как комплексный процесс формирования у обучающихся духовной культуры, овладения ими основами художественной культуры. Особенность программы заключается во взаимосвязи занятий по рисованию, лепке, аппликации.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2447966",
     "workUrl": "",
@@ -10184,7 +10295,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10199,8 +10310,8 @@
     "campus": "ШК-5",
     "dates": "01.09.2026 - 28.05.2027",
     "priceMonth": "2 500 ₽",
-    "priceLesson": "312,5 ₽",
-    "price": "2 500 ₽ / месяц · 312,5 ₽ / занятие",
+    "priceLesson": "312,50 ₽",
+    "price": "2 500 ₽ / месяц · 312,50 ₽ / занятие",
     "description": "Программа обучения в объединении «Волшебная кисточка» ориентирует на одновременное решение задач художественного образования и эстетического воспитания, т. е. рассматривает обучение и воспитание как единое целое. Программа раскрывает характер обучения изобразительному искусству в кружке как комплексный процесс формирования у обучающихся духовной культуры, овладения ими основами художественной культуры. Особенность программы заключается во взаимосвязи занятий по рисованию, лепке, аппликации.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2447970",
     "workUrl": "",
@@ -10216,7 +10327,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "2",
     "hours": "1",
-    "audience": "7-11",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10275,7 +10386,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "7",
     "hours": "1",
-    "audience": "7-8 лет",
+    "audience": "7–8 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы"
@@ -10305,7 +10416,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "7-11 лет",
+    "audience": "7–11 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10320,7 +10431,7 @@
       "Пт"
     ],
     "address": "улица Молостовых,д.1,к.5",
-    "campus": "ШК-5",
+    "campus": "Корпус не указан",
     "dates": "01.09.2026 - 28.05.2027",
     "priceMonth": "8 000 ₽",
     "priceLesson": "1 000 ₽",
@@ -10340,7 +10451,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "1",
-    "audience": "7-17 лет",
+    "audience": "7–17 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10372,7 +10483,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "1",
-    "audience": "7-17 лет",
+    "audience": "7–17 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10404,7 +10515,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "1",
-    "audience": "7-17 лет",
+    "audience": "7–17 лет",
     "grades": [],
     "audienceGroups": [
       "1–4 классы",
@@ -10436,10 +10547,9 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-10 лет",
+    "audience": "6–10 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы"
     ],
     "schedule": "Вторник 14.30-15.15 Четверг 15.40-16.25",
@@ -10468,10 +10578,9 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-10 лет",
+    "audience": "6–10 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы"
     ],
     "schedule": "Вторник 15.40-16.25 Четверг 14.20-15.15",
@@ -10608,16 +10717,14 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-10",
+    "audience": "6–10 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы"
     ],
     "schedule": "понедельник-среда 14.30-15.15",
     "days": [
       "Пн",
-      "Вт",
       "Ср"
     ],
     "address": "Сталеваров 8Б",
@@ -10641,16 +10748,14 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-10",
+    "audience": "6–10 лет",
     "grades": [],
     "audienceGroups": [
-      "Дошкольники",
       "1–4 классы"
     ],
     "schedule": "вторник-четверг 14.30-15.15",
     "days": [
       "Вт",
-      "Ср",
       "Чт"
     ],
     "address": "Молостовых 1к5",
@@ -10880,9 +10985,6 @@
     "schedule": "Понедельник-пятница 12.00-12.30",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Молостовых 9Б",
@@ -10914,9 +11016,6 @@
     "schedule": "Понедельник-пятница 12.00-12.30",
     "days": [
       "Пн",
-      "Вт",
-      "Ср",
-      "Чт",
       "Пт"
     ],
     "address": "Молостовых 9Б",
@@ -11001,7 +11100,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "1",
-    "audience": "1,5-3 года",
+    "audience": "1,5–3 года",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11429,15 +11528,13 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "4 –7 лет",
+    "audience": "4–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
     ],
     "schedule": "По индивидуальному графику (с понедельника по пятницу)",
-    "days": [
-      "Пн"
-    ],
+    "days": [],
     "address": "Молостовых 9Б",
     "campus": "ДГ-1",
     "dates": "01.09.2026 - 31.05.2027",
@@ -11494,8 +11591,7 @@
     ],
     "schedule": "Вторник, четверг16.20-16.50",
     "days": [
-      "Вт",
-      "Чт"
+      "Вт"
     ],
     "address": "Молостовых 9Б",
     "campus": "ДГ-1",
@@ -11532,8 +11628,8 @@
     "campus": "ДГ-1",
     "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "3 300 ₽",
-    "priceLesson": "412,5 ₽",
-    "price": "3 300 ₽ / месяц · 412,5 ₽ / занятие",
+    "priceLesson": "412,50 ₽",
+    "price": "3 300 ₽ / месяц · 412,50 ₽ / занятие",
     "description": "Программа направлена на создание условий для интенсивной социальной адаптации детей, творческого самовыражения и повышение их психологической готовности к включению в образовательную деятельность; устранение неэффективного психологического напряжения; формирование положительного образа Я и самооценки.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2460723",
     "workUrl": "https://docs.google.com/document/d/1Ei5kvon50CA6_LZKqCNv-PXaQ6Q1hNyH/edit",
@@ -11647,8 +11743,7 @@
     ],
     "schedule": "Вторник, четверг16.00-16.30",
     "days": [
-      "Вт",
-      "Чт"
+      "Вт"
     ],
     "address": "Молостовых 9Б",
     "campus": "ДГ-1",
@@ -11679,7 +11774,6 @@
     "schedule": "вторник-четверг 15.40-16.10",
     "days": [
       "Вт",
-      "Ср",
       "Чт"
     ],
     "address": "Молостовых 9Б",
@@ -11703,7 +11797,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9 месяцев",
     "hours": "2",
-    "audience": "4-6 лет",
+    "audience": "4–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11715,7 +11809,7 @@
     ],
     "address": "ДГ1",
     "campus": "ДГ-1",
-    "dates": "01.09.2026- 31.05.2017",
+    "dates": "01.09.2026- 31.05.2027",
     "priceMonth": "4 000 ₽",
     "priceLesson": "500 ₽",
     "price": "4 000 ₽ / месяц · 500 ₽ / занятие",
@@ -11734,7 +11828,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "4-5 лет",
+    "audience": "4–5 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11764,7 +11858,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "4-5 лет",
+    "audience": "4–5 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11794,7 +11888,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "5-6 лет",
+    "audience": "5–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11824,7 +11918,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "5-6 лет",
+    "audience": "5–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11854,7 +11948,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "3-7 лет",
+    "audience": "3–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11885,7 +11979,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "2",
-    "audience": "3-7 лет",
+    "audience": "3–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11899,8 +11993,8 @@
     "campus": "ДГ-3",
     "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "3 300 ₽",
-    "priceLesson": "412,5 ₽",
-    "price": "3 300 ₽ / месяц · 412,5 ₽ / занятие",
+    "priceLesson": "412,50 ₽",
+    "price": "3 300 ₽ / месяц · 412,50 ₽ / занятие",
     "description": "Программа расширяет знания о нетрадиционных способах рисования. Помогает формировать эстетическое отношение к окружающей действительности, развивает способность смотреть на мир и видеть его глазами художников, замечать и творить Красоту. Формирует эстетический вкус. Развивает творчество и фантазию, наблюдательность воображение, ассоциативное мышление и любознательность.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2465661",
     "workUrl": "https://docs.google.com/document/d/1ZBM3289BhHigu0japvgRW7vz2FFOK7G3/edit?usp=drive_link&ouid=107790786446676523435&rtpof=true&sd=true",
@@ -11916,7 +12010,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "1",
-    "audience": "3-4 года",
+    "audience": "3–4 года",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11946,7 +12040,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "3-4 года",
+    "audience": "3–4 года",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -11976,7 +12070,7 @@
     "direction": "Художественная",
     "duration": "9",
     "hours": "1",
-    "audience": "1,5-3 лет",
+    "audience": "1,5–3 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12006,7 +12100,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "5-7 лет",
+    "audience": "5–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12037,7 +12131,7 @@
     "direction": "Естественно-научная",
     "duration": "9",
     "hours": "2",
-    "audience": "5-7 лет",
+    "audience": "5–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12051,8 +12145,8 @@
     "campus": "ДГ-3",
     "dates": "01.09.2026 - 31.05.2027",
     "priceMonth": "3 300 ₽",
-    "priceLesson": "412,5 ₽",
-    "price": "3 300 ₽ / месяц · 412,5 ₽ / занятие",
+    "priceLesson": "412,50 ₽",
+    "price": "3 300 ₽ / месяц · 412,50 ₽ / занятие",
     "description": "Образовательная программа направлена на формирование у дошкольников более высокого уровня познавательного и личностного развития, что позволяет успешно учиться. Создание программы обусловлено поиском обновления качества содержания интеллектуального образования, в частности, развития математических способностей детей, формирование запаса знаний, умений, навыков, которые станут базой дальнейшего обучения;овладение мыслительными операциями (анализ и синтез, сравнение, обобщение, классификация и т.д.), формирование умения понять учебную задачу и выполнить её самостоятельно.",
     "mosUrl": "https://www.mos.ru/pgu2/activity/groups?keyword=2466294",
     "workUrl": "https://docs.google.com/document/d/1Zs_u9LYmaULeX2apDkUmHJaabrSB5c0t/edit?usp=drive_link&ouid=107790786446676523435&rtpof=true&sd=true",
@@ -12068,7 +12162,7 @@
     "direction": "Техническая",
     "duration": "9",
     "hours": "1",
-    "audience": "5-7 лет",
+    "audience": "5–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12098,7 +12192,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "5-6 лет",
+    "audience": "5–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12129,7 +12223,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "6-7 лет",
+    "audience": "6–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12160,7 +12254,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "2",
-    "audience": "4-7 лет",
+    "audience": "4–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12188,7 +12282,7 @@
     "direction": "Социально-гуманитарная",
     "duration": "9",
     "hours": "1",
-    "audience": "2-10 лет",
+    "audience": "2–10 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12247,7 +12341,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9",
     "hours": "2",
-    "audience": "4-7 лет",
+    "audience": "4–7 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12286,7 +12380,6 @@
     "schedule": "понедельник-среда 15.40-16.10",
     "days": [
       "Пн",
-      "Вт",
       "Ср"
     ],
     "address": "Сталеваров, 8А",
@@ -12310,7 +12403,7 @@
     "direction": "Физкультурно-спортивная",
     "duration": "9 месяцев",
     "hours": "2",
-    "audience": "4-6 лет",
+    "audience": "4–6 лет",
     "grades": [],
     "audienceGroups": [
       "Дошкольники"
@@ -12322,7 +12415,7 @@
     ],
     "address": "ДГ1",
     "campus": "ДГ-3",
-    "dates": "01.09.2026- 31.05.2017",
+    "dates": "01.09.2026- 31.05.2027",
     "priceMonth": "4 000 ₽",
     "priceLesson": "500 ₽",
     "price": "4 000 ₽ / месяц · 500 ₽ / занятие",
